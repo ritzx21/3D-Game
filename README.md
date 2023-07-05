@@ -1,2 +1,5 @@
 # 3D-Game
-First Unity 3D game
+Unity 3D game
+
+Instructions-
+-Collect coins to pass the level
