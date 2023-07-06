@@ -91,8 +91,9 @@ Material:
     - _GroundColor1: {r: 0.17009956, g: 0.1484069, b: 0.21698111, a: 1}
     - _OreColor: {r: 2, g: 0.4804064, b: 0, a: 0}
     - _OreColor1: {r: 0.0078125, g: 0, b: 0.000778351, a: 0}
-    - _OreEmissionColor: {r: 7.999999, g: 1.3359382, b: 0, a: 0}
+    - _OreEmissionColor: {r: 6.650202, g: 5.331338, b: 0, a: 0}
     - _SnowDirection: {r: 0.1, g: 1, b: 0.1, a: 0}
     - _TopColor: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 1}
     - _TopColor1: {r: 0.59574103, g: 0.51699895, b: 0.6981132, a: 1}
     - _Vector1: {r: 0.1, g: 1, b: 0.1, a: 0}
+  m_BuildTextureStacks: []
