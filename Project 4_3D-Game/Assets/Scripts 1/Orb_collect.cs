@@ -13,6 +13,10 @@ public class Orb_collect : MonoBehaviour
         player = GameObject.Find("FirstPersonController").GetComponent<Player>();
     }
 
+    // Update is called once per frame
+    void Update()
+    {  
+    }
 
     private void OnTriggerEnter(Collider other)
     {
